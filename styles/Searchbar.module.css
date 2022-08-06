@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.container input {
+    background-color: ghostwhite;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-style: none;
+    
+}
+.container input:focus {
+    outline: none;
+}
